@@ -1,0 +1,7 @@
+#Wed Apr 12 21:39:49 CST 2017
+base.0=/home/tengweifeng/study/CustomeView03/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b850a332a95171cd1735089d97041a0e7461448e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tengweifeng/study/CustomeView03/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8eeb148970842f00b89309b5524371ea9b12658a/classes.dex
+base.1=/home/tengweifeng/study/CustomeView03/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8eeb148970842f00b89309b5524371ea9b12658a
+file.0=/home/tengweifeng/study/CustomeView03/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b850a332a95171cd1735089d97041a0e7461448e/classes.dex
